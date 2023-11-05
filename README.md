@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 👋 Hi, I’m Hyugenk
-- 👀 I’m interested in Front End Web Development 
+- 👀 I’m interested in Front End Web Developmentt
 - 💞️ I’m looking to collaborate on Frontend development with React.js
 - 📫 You can contact me by email hyugenk@gmail.com
 - 💌 Portfolio : [Portfolio Hyugenk](https://instagram.com/hyugenk)
