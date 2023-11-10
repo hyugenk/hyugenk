@@ -1,7 +1,7 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 
 ### Hi, Bro  👋
-- 👋 Hi, I’m Hyugenk
+- 👋 Hi, I’m Hyuga alias Hyugenk
 - 👀 I’m interested in Front End Web Development
 - 💞️ I’m looking to collaborate on Frontend development with React.js
 - 📫 You can contact me by email hyugenk@gmail.com
