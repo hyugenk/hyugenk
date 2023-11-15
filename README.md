@@ -14,27 +14,26 @@
 ### Github Statistic
 
 <p>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zavierferodova&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zavierferodova&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyugenk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hyugenk&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ### Tech Stack
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ffd03d?logo=Python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?logo=JavaScript&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white"/>
-  <img alt="ReactJS" src="https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ec2025?logo=java&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffd03d?logo=Python&logoColor=white"/>
+  <img alt="Android" src="https://img.shields.io/badge/-Android-2edf85?logo=Android&logoColor=white"/>
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-494949?logo=next.js&logoColor=white"/>
   <img alt="php" src="https://img.shields.io/badge/-php-777bb3?logo=php&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white"/>
-  </br>
-  <img alt="Android" src="https://img.shields.io/badge/-Android-2edf85?logo=Android&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ec2025?logo=java&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white"/>
+  <img alt="ReactJS" src="https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f1850b?logo=Kotlin&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white"/>
 </p>
 
 ### Reach Me
