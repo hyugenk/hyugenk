@@ -41,7 +41,7 @@
   <a href="https://instagram.com/hyugenk" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hyugadewantokojyro/" target="_blank">
+  <a href="https://www.linkedin.com/in/hyuga-dewanto-kojyro-45b434221/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" />
   </a>
 </p>
