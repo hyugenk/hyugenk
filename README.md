@@ -23,8 +23,8 @@
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?logo=JavaScript&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ec2025?logo=java&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ffd03d?logo=Python&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffd03d?logo=Python&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/-Android-2edf85?logo=Android&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white"/>
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-494949?logo=next.js&logoColor=white"/>
