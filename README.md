@@ -27,8 +27,8 @@
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-494949?logo=next.js&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/-Android-2edf85?logo=Android&logoColor=white"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white"/>
   <img alt="php" src="https://img.shields.io/badge/-php-777bb3?logo=php&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f1850b?logo=Kotlin&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white"/>
