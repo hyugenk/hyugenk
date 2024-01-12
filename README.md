@@ -1,5 +1,9 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 
+## 
+[![GitHub followers](https://img.shields.io/github/followers/hyugenk?color=0F9D58&labelColor=000000&label=Github+Followers&logo=github&logoColor=white&style=for-the-badge)](https://github.com/hyugenk)
+[![Visitor Count](https://komarev.com/ghpvc/?username=hyugenk-ai&style=for-the-badge&color=0F9D58)](https://github.com/hyugenk)
+<br>
 ## Hi, Broo  👋
 - 👋 Hi, I’m Hyuga alias Hyugenk
 - 👀 I’m interested in Front End Web Development
@@ -48,3 +52,5 @@
 ### My Project 
 1. [PosCari](https://pos-carii.vercel.app/)
 2. [Sciptshare](http://scriptshare.tech/)
+
+
