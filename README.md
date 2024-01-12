@@ -16,12 +16,12 @@
 [![Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=hyugenk&bg_color=22272e&color=6e6e6e&line=19b856&point=267dcf&area=false&hide_border=true)](https://github.com/hyugenk)
 <div align="center">
     <img src="https://raw.githubusercontent.com/hyugenk/hyugenk/output/contrib-snek-yami.svg#gh-dark-mode-only" alt="Snake" loop=infinite>
+    <p>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyugenk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hyugenk&layout=compact&langs_count=8&theme=algolia"/>
+    </p>
 </div>
 
-<p>
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyugenk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hyugenk&layout=compact&langs_count=8&theme=algolia"/>
-</p>
 
 ### Tech Stack
 
