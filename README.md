@@ -4,6 +4,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/hyugenk?color=0F9D58&labelColor=000000&label=Github+Followers&logo=github&logoColor=white&style=for-the-badge)](https://github.com/hyugenk)
 [![Visitor Count](https://komarev.com/ghpvc/?username=hyugenk-ai&style=for-the-badge&color=0F9D58)](https://github.com/hyugenk)
 <br>
+
+[![Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=hyugenk&bg_color=22272e&color=6e6e6e&line=19b856&point=267dcf&area=false&hide_border=true)](https://github.com/hyugenk)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/hyugenk/hyugenk/output/contrib-snek-yami.svg#gh-dark-mode-only" alt="Snake" loop=infinite>
+</div>
+
 ## Hi, Broo  👋
 - 👋 Hi, I’m Hyuga alias Hyugenk
 - 👀 I’m interested in Front End Web Development
