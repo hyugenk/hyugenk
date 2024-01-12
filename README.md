@@ -1,5 +1,13 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 
+## Hi, Broo  👋
+- 👋 Hi, I’m Hyuga alias Hyugenk
+- 👀 I’m interested in Front End Web Development
+- 💞️ I’m looking to collaborate on Frontend development with React.js
+- 📫 You can contact me by email hyugenk@gmail.com
+- 💌 Portfolio : [Portfolio Hyugenk](https://github.com/hyugenk)
+
+### Github Statistic
 ## 
 [![GitHub followers](https://img.shields.io/github/followers/hyugenk?color=0F9D58&labelColor=000000&label=Github+Followers&logo=github&logoColor=white&style=for-the-badge)](https://github.com/hyugenk)
 [![Visitor Count](https://komarev.com/ghpvc/?username=hyugenk-ai&style=for-the-badge&color=0F9D58)](https://github.com/hyugenk)
@@ -9,19 +17,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/hyugenk/hyugenk/output/contrib-snek-yami.svg#gh-dark-mode-only" alt="Snake" loop=infinite>
 </div>
-
-## Hi, Broo  👋
-- 👋 Hi, I’m Hyuga alias Hyugenk
-- 👀 I’m interested in Front End Web Development
-- 💞️ I’m looking to collaborate on Frontend development with React.js
-- 📫 You can contact me by email hyugenk@gmail.com
-- 💌 Portfolio : [Portfolio Hyugenk](https://github.com/hyugenk)
-
-
-<img src="https://readme-status-bay.vercel.app/api/top-langs/?username=hyugenk&hide_border=true&langs_count=8&custom_title=8+Top+Languages&title_color=20fc8f&theme=dracula&layout=compact&card_width=280">
-
-
-### Github Statistic
 
 <p>
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyugenk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
