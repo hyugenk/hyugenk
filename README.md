@@ -3,8 +3,8 @@
 ## Hi, Broo  👋
 - 👋 Hi, I’m Hyuga alias Hyugenk
 - 👀 I’m interested in Front End Web Development
-- 📫 You can contact me by email hyugenk@gmail.com
 - 💞️ I’m looking to collaborate on Frontend development with React.js
+- 📫 You can contact me by email hyugenk@gmail.com
 - 💌 Portfolio : [Portfolio Hyugenk](https://github.com/hyugenk)
 
 ### Github Statistic
