@@ -1,6 +1,6 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 
-<h1 align="center" >Hi , Bro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left" >Hi , Bro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 - 👋 Hi, I’m Hyuga alias Hyugenkk
 - 👀 I’m interested in Front End Web Development
