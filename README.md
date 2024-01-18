@@ -2,7 +2,7 @@
 
 <h1 align="left" >Hi , Bro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 👋 Hi, I’m Hyuga alias Hyugenk
+- 👋 Hi, I’m Hyuga alias Hyugenkk
 - 👀 I’m interested in Front End Web Development
 - 💞️ I’m looking to collaborate on Frontend development with React.js
 - 📫 You can contact me by email hyugenk@gmail.com
