@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Student;Class+Of+2021;I’m+interested+in+Front+End+Web+Development&center=true&width=500&height=50"></a>
 </p>
 
-- 👋 Hii, I’m Hyuga alias Hyugenkkk
+- 👋 Hii, I’m Hyuga alias Hyugenk
 - 👀 I’m interested in Front End Web Development
 - 💞️ I’m looking to collaborate on Frontend development with React.js
 - 📫 You can contact me by email hyugenk@gmail.com
