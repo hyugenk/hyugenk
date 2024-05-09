@@ -7,7 +7,7 @@
 
 - 👋 Hii, I’m Hyuga alias Hyugenkk
 - 👀 I’m interested in Front End Web Development
-- 💞️ I’m looking to collaborate on Frontend development with React.js
+- 💞️ I’m looking to collaborate on Frontend development with Node.js
 - 📫 You can contact me by email hyugenk@gmail.com
 - 💌 Portfolio : [Portfolio Hyugenk](https://github.com/hyugenk)
 
